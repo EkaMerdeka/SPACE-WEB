@@ -1,0 +1,8 @@
+{
+  "name": "EKA SPACE — Your Campus Companion",
+  "description": "Aplikasi pribadi mahasiswa untuk mengelola seluruh kebutuhan perkuliahan, sertifikat, dokumen, catatan, jadwal, tugas, profil kampus, dan kode pemrograman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
